@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jbs4bmx/WebImageConverter">
-    <img src="./resources/wic.png" alt="logo" width="512" height="512">
+    <img src="./Resources/wic.png" alt="logo" width="512" height="512">
   </a>
 
   <h3 align="center">Web Image Converter</h3>
@@ -67,12 +67,12 @@ Yada-yada-yada...
 ### Built With
 | Frameworks/Libraries                                      | Name         | Link                                       |
 | :-------------------------------------------------------: | :----------: | :----------------------------------------: |
-| <img src="./resources/CS.svg" width="48">              | `C Sharp`    | [C# Documentation][CSharp-url]             |
+| <img src="./Resources/CS.svg" width="48">              | `C Sharp`    | [C# Documentation][CSharp-url]             |
 
 |                         IDEs                                |      Name       | Link                                      |
 | :---------------------------------------------------------: | :-------------: | :---------------------------------------: |
-| <img src="./resources/VisualStudio-Dark.svg" width="48"> | `Visual Studio` | [Visual Studio Website][VisualStudio-url] |
-| <img src="./resources/VSCode-Dark.svg" width="48">       | `VSCode`        | [VSCode Website][Vscode-url]              |
+| <img src="./Resources/VisualStudio-Dark.svg" width="48"> | `Visual Studio` | [Visual Studio Website][VisualStudio-url] |
+| <img src="./Resources/VSCode-Dark.svg" width="48">       | `VSCode`        | [VSCode Website][Vscode-url]              |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
