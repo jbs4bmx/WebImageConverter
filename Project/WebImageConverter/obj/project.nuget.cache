@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "52vyFr5rb7Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jace\\source\\repos\\WebImageConverter\\WebImageConverter\\WebImageConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jace\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.17\\microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "C:\\Users\\Jace\\.nuget\\packages\\sixlabors.imagesharp\\3.1.10\\sixlabors.imagesharp.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jace\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512",
+    "C:\\Users\\Jace\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.17\\microsoft.aspnetcore.app.runtime.win-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\Jace\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\Jace\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.17\\microsoft.netcore.app.runtime.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

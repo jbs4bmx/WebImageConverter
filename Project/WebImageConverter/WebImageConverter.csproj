@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>WebImageConverter</AssemblyName>
+    <RootNamespace>WebImageConverter</RootNamespace>
+    <Version>1.0.17.1</Version>
+    <FileName>WebImageConverter</FileName>
+    <FileVersion>1.0.17.1</FileVersion>
+    <AssemblyVersion>1.0.17.1</AssemblyVersion>
+    <Company>Raputoru Software</Company>
+    <Product>Web Image Converter</Product>
+    <Title>Web Image Converter</Title>
+    <ProductName>Web Image Converter</ProductName>
+    <Authors>Jason Bradley Darling</Authors>
+    <Description>Convert WebP images to PNG or JPG with a simple GUI.</Description>
+    <ProductDescription>Web Image Converter is a user-friendly application designed to convert WebP images into PNG or JPG formats. It features a straightforward interface that allows users to easily select and convert images without needing advanced technical knowledge.</ProductDescription>
+    <Copyright>© 2025 Raputoru Software</Copyright>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.17763.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>wici.ico</ApplicationIcon>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wici.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="wici.ico" />
+    <EmbeddedResource Include="wici.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
