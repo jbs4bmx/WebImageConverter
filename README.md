@@ -25,22 +25,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#how-to-use">How to Use This Application</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Development</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#setup">Setup</a></li>
-        <li><a href="#build">Build</a></li>
-        <li><a href="#publish">Publish</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">📦 Application Overview</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Development</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -50,18 +37,45 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-Web Image Converter is a simple, portable utility that converts images in WEBP format to JPG or PNG.
+## 📦 Application Overview
+WebImageConverter is a lightweight, portable Windows application that converts `.webp` image files into more commonly used formats like `.png` or `.jpg`. Users can select a target folder, choose the output format, and optionally include subdirectories during the conversion process. All converted images retain their original filenames and are saved in the same location as the source files.
 
-### How to Use This Application
-  1. Double-click the application to run it.
-  2. Select the folder that contains the webp images that you want to convert.
-  3. Select the file type you want to convert the images to. Your options are JPG or PNG.
-  4. Click the button to convert the images.
+The application features a user-friendly GUI built with Windows Forms and includes:
+  * Folder selection with recursive search toggle
+  * Format selection via dropdown menu
+  * Real-time status log for conversion success or errors
+  * File count preview
+  * Progress bar to track conversion progress
+  * Embedded resources (including icon), with no external dependencies required
 
-Converted images will be in the same folder as the webp images.
+This tool is ideal for batch conversion tasks, web content prep, archival workflows, or simply cleaning up `.webp` files from downloads.
 
-### Built With
+### 🚀 How to Use WebImageConverter
+#### Step 1: Launch the App
+Double-click the compiled `.exe` file. No installation required — it's a portable single-file app.
+
+#### Step 2: Select Your Folder
+Click the Browse... button and choose the folder containing your .webp images.
+  * 🔘 If you only want images in the selected folder, uncheck “Include subfolders”
+  * ✅ To scan recursively, leave it checked
+
+#### Step 3: Choose the Output Format
+Use the dropdown menu to select either:
+  * `png`
+  * `jpg`
+
+#### Step 4: Start Conversion
+Click the Convert button.
+  * ✅ Progress will be displayed in the status log
+  * 📈 The progress bar updates as each image is processed
+  * 🧮 File count is shown before conversion begins
+
+#### Step 5: Review Results
+All converted images will be saved in the same location as their .webp counterparts, using the same file name and chosen format extension.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Built With
 |               Frameworks/Libraries                |     Name     |                 Link                 |
 | :-----------------------------------------------: | :----------: | :----------------------------------: |
 | <img src="./Resources/CS.svg" width="48">         | `C Sharp`    | [C# Documentation][CSharp-url]       |
