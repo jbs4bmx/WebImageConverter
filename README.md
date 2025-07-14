@@ -241,7 +241,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [issues-shield]: https://img.shields.io/github/issues/jbs4bmx/WebImageConverter.svg?style=for-the-badge
 [issues-url]: https://github.com/jbs4bmx/WebImageConverter/issues
 [license-shield]: https://img.shields.io/github/license/jbs4bmx/WebImageConverter.svg?style=for-the-badge
-[license-url]: https://github.com/jbs4bmx/WebImageConverter/blob/master/LICENSE.txt
+[license-url]: https://github.com/jbs4bmx/WebImageConverter/blob/master/LICENSE
 
 <!-- Framwork/Library URLs -->
 [CSharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
