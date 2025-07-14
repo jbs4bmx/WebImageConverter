@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 256 256.00043"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="2"
+   version="1.1"
+   id="svg3"
+   width="256"
+   height="256.00043"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     d="M 256,63.99996 C 256,28.67756 227.3225,0 191.99987,0 H 64.00014 C 28.67751,0 0,28.67756 0,63.99996 v 128.00022 c 0,35.32269 28.67751,64.00025 64.00014,64.00025 H 191.99987 C 227.3225,256.00043 256,227.32287 256,192.00018 Z"
+     fill="url(#_Linear1)"
+     id="path1"
+     style="fill:url(#_Linear1);stroke-width:0.281458" />
+  <path
+     d="m 51.20037,192.00059 39.27821,-91.528 23.06799,53.75327 16.01209,-25.14543 22.48046,35.30381 12.69585,-12.81054 40.06568,40.42689 z"
+     fill="#ffffff"
+     id="path2"
+     style="stroke-width:0.256001" />
+  <circle
+     cx="169.72826"
+     cy="80.128052"
+     r="19.20001"
+     fill="#ffffff"
+     id="circle2"
+     style="stroke-width:0.204255" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="_Linear1"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(261.9585,-261.03219,261.03155,261.95901,-3.25745,258.33087)">
+      <stop
+         offset="0"
+         stop-color="#e4d101"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#e30183"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+</svg>
