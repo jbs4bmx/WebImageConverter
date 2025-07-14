@@ -65,7 +65,7 @@ Converted images will be in the same folder as the webp images.
 |               Frameworks/Libraries                |     Name     |                 Link                 |
 | :-----------------------------------------------: | :----------: | :----------------------------------: |
 | <img src="./Resources/CS.svg" width="48">         | `C Sharp`    | [C# Documentation][CSharp-url]       |
-| <img src="./Resources/dotNET.svg" width="48">     | `.NET`       | [.NET Website][dotNet-url]           |
+| <img src="./Resources/dotnet.svg" width="48">     | `.NET`       | [.NET Website][dotNet-url]           |
 | <img src="./Resources/imagesharp.svg" width="48"> | `ImageSharp` | [ImageSharp Website][ImageSharp-url] |
 
 |                         IDEs                             |      Name       |                   Link                    |
